@@ -1,0 +1,77 @@
+INSERT INTO eladmin.pms_product_attribute_value (product_id,product_attribute_id,value) VALUES
+	 (9,1,'X'),
+	 (10,1,'X'),
+	 (11,1,'X'),
+	 (12,1,'X'),
+	 (13,1,'X'),
+	 (14,1,'X'),
+	 (18,1,'X'),
+	 (7,1,'X'),
+	 (7,1,'XL'),
+	 (7,1,'XXL');
+INSERT INTO eladmin.pms_product_attribute_value (product_id,product_attribute_id,value) VALUES
+	 (22,7,'x,xx'),
+	 (22,24,'no110'),
+	 (22,25,'春季'),
+	 (22,37,'青年'),
+	 (22,38,'2018年春'),
+	 (22,39,'长袖'),
+	 (23,7,'米白色,浅黄色'),
+	 (23,24,'no1098'),
+	 (23,25,'春季'),
+	 (23,37,'青年');
+INSERT INTO eladmin.pms_product_attribute_value (product_id,product_attribute_id,value) VALUES
+	 (23,38,'2018年春'),
+	 (23,39,'长袖'),
+	 (1,13,NULL),
+	 (1,14,NULL),
+	 (1,15,NULL),
+	 (1,16,NULL),
+	 (1,17,NULL),
+	 (1,18,NULL),
+	 (1,19,NULL),
+	 (1,20,NULL);
+INSERT INTO eladmin.pms_product_attribute_value (product_id,product_attribute_id,value) VALUES
+	 (1,21,NULL),
+	 (2,13,NULL),
+	 (2,14,NULL),
+	 (2,15,NULL),
+	 (2,16,NULL),
+	 (2,17,NULL),
+	 (2,18,NULL),
+	 (2,19,NULL),
+	 (2,20,NULL),
+	 (2,21,NULL);
+INSERT INTO eladmin.pms_product_attribute_value (product_id,product_attribute_id,value) VALUES
+	 (31,24,NULL),
+	 (31,25,'夏季'),
+	 (31,37,'青年'),
+	 (31,38,'2018年夏'),
+	 (31,39,'短袖'),
+	 (30,24,NULL),
+	 (30,25,'夏季'),
+	 (30,37,'青年'),
+	 (30,38,'2018年夏'),
+	 (30,39,'短袖');
+INSERT INTO eladmin.pms_product_attribute_value (product_id,product_attribute_id,value) VALUES
+	 (26,43,'金色,银色'),
+	 (26,45,'5.0'),
+	 (26,46,'4G'),
+	 (26,47,'Android'),
+	 (26,48,'3000'),
+	 (27,43,'黑色,蓝色'),
+	 (27,45,'5.8'),
+	 (27,46,'4G'),
+	 (27,47,'Android'),
+	 (27,48,'3000ml');
+INSERT INTO eladmin.pms_product_attribute_value (product_id,product_attribute_id,value) VALUES
+	 (28,43,'金色,银色'),
+	 (28,45,'5.0'),
+	 (28,46,'4G'),
+	 (28,47,'Android'),
+	 (28,48,'2800ml'),
+	 (29,43,'金色,银色'),
+	 (29,45,'4.7'),
+	 (29,46,'4G'),
+	 (29,47,'IOS'),
+	 (29,48,'1960ml');
